@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Marketing Analytics Lab</title>
+</head>
+
+<body>
+
+<h1>Marketing Analytics Practice Site</h1>
+
+<p>This site is used to practice GA4 and Google Tag Manager.</p>
+
+<button id="download">
+Download Guide
+</button>
+
+<br><br>
+
+<button id="contact">
+Request Information
+</button>
+
+</body>
+</html>
